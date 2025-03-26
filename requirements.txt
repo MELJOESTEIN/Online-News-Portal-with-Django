@@ -23,7 +23,7 @@ future==0.18.2
 geocoder==1.38.1
 geoip2==3.0.0
 get==2019.4.13
-gunicorn==20.0.4
+gunicorn==23.0.0
 humanize==2.0.0
 idna==2.9
 ip2geotools==0.1.5
